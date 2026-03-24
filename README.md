@@ -10,7 +10,7 @@ Each warehouse is built from scratch using real-world inspired datasets and scen
 
 ## 👤 A bit of context
 
-I’m a Data Manager in **ESG Reporting**, with a background spanning sustainability analytics, Scope 3 emissions, and supply chain data. Over the past few years I’ve self-developed skills in **Python, SQL, Power BI, and Power Automate**, applying them to automate and improve ESG data pipelines — work that’s earned recognition at the CEO level at GSK.
+I’m a Senior Associate in **ESG Reporting & Assurance** field, with a background spanning sustainability analytics, Scope 3 emissions, and supply chain data. Over the past few years I’ve self-developed skills in **Python, SQL, Power BI, and Power Automate**, applying them to automate and improve ESG data pipelines — work that’s earned recognition at the CEO level at GSK.
 
 Now I’m taking that foundation and building something bigger: a deliberate, structured transition into **Analytics Engineering**, combining deep ESG domain expertise with genuine data engineering capability.
 
