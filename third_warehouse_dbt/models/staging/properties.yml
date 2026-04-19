@@ -14,3 +14,14 @@ models:
           - not_null:
               config:
                 severity: warn
+  - name: stg_emissions_ownership
+    columns:
+      - name: source_id
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('stg_emissions_sources')
+              field: source_id
+      - name: parent_id
+        data_tests:
+          - not_null
