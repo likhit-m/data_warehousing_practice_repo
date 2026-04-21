@@ -1,4 +1,12 @@
 
+# dbt artifacts
 target/
+dbt_modules/
 dbt_packages/
+
+# Logs
 logs/
+*.log
+
+# Environment variables (Never commit these!)
+.env
