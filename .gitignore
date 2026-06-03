@@ -4,3 +4,4 @@ logs/
 requirements.txt/
 refactoring_dbt
 end_to_end_dbt_project/
+supply_chain_analytics_e2e_project/
